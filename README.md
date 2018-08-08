@@ -1,2 +1,1 @@
-# my-reads-app
-My Reads App
+# My Reads App
