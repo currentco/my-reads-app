@@ -2,7 +2,7 @@
 
 This is a React app for inventoring the reading status of books. 
 
-Visit the site x and start exploring!
+Visit the hosted app <a href="https://gifted-galileo-3d5486.netlify.com/">My Reads</a> and start exploring!
 
 ## How to install
 
