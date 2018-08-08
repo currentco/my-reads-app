@@ -1,5 +1,5 @@
 # My Reads App
----
+
 This is a React app for inventoring the reading status of books. 
 
 Visit the site x and start exploring!
@@ -8,11 +8,11 @@ Visit the site x and start exploring!
 
 - Install Node.js
 - Navigate to your chosen directory in the terminal and clone the project
-  Command: git clone https://github.com/currentco/my-reads-app.git
+  <code>git clone https://github.com/currentco/my-reads-app.git</code>
 - Install npm
-  Command: npm install
+  <code>npm install</code>
 - Run the app
-  Command: npm start
+  <code>npm start</code>
 
 ## Dependencies
 
