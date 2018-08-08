@@ -20,7 +20,7 @@ Visit the site x and start exploring!
 - <a href="https://nodejs.org/en/">Node.js</a> - JavaScript runtime
 - <a href="https://www.npmjs.com/">npm</a> - Package manager for JavaScript
 - <a href="https://www.npmjs.com/package/prop-types">prop-types</a> - Runtime type checking for React props 
-- <a href="https://www.npmjs.com/package/react-router-dom">react-router-dom</a> - Package manager for JavaScript
+- <a href="https://www.npmjs.com/package/react-router-dom">react-router-dom</a> - DOM bindings for React Router
 - <a href="https://reactnd-books-api.udacity.com">Books API</a> - Book library
 
 ## Contributing
