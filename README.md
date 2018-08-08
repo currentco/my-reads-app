@@ -7,11 +7,11 @@ Visit the site x and start exploring!
 ## How to install
 
 - Install Node.js
-- Navigate to your chosen directory in the terminal and clone the project
+- Navigate to your chosen directory in the terminal and clone the project <br>
   <code>git clone https://github.com/currentco/my-reads-app.git</code>
-- Install npm
+- Install npm <br>
   <code>npm install</code>
-- Run the app
+- Run the app <br>
   <code>npm start</code>
 
 ## Dependencies
